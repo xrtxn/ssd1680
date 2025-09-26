@@ -42,10 +42,10 @@ pub const MAX_HEIGHT: u16 = 296;
 pub const MAX_WIDTH: u16 = 176;
 
 /// Display height
-pub const HEIGHT: u8 = 296;
+pub const HEIGHT: u8 = 128;
 
 /// Display width
-pub const WIDTH: u8 = 128;
+pub const WIDTH: u8 = 296;
 
 pub mod interface;
 
